@@ -1,1 +1,1 @@
-# -goit-js-hw-01-3.0
+# https://vladyslavi.github.io/goit-js-hw-01-3.0/
